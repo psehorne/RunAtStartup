@@ -1,0 +1,9 @@
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.exe
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.pdb
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.csprojResolveAssemblyReference.cache
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.frmStartup.resources
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.Properties.Resources.resources
+C:\Programming\RunAtStartup\RunAtStartup\obj\Debug\RunAtStartup.csproj.GenerateResource.Cache
+C:\Programming\RunAtStartup\RunAtStartup\bin\Debug\RunAtStartup.exe
+C:\Programming\RunAtStartup\RunAtStartup\bin\Debug\RunAtStartup.pdb
+C:\Programming\RunAtStartup\RunAtStartup\bin\Debug\RunAtStartup.exe.config

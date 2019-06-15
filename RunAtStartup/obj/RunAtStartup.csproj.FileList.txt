@@ -1,0 +1,8 @@
+bin\Debug\RunAtStartup.exe
+bin\Debug\RunAtStartup.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RunAtStartup.frmStartup.resources
+obj\Debug\RunAtStartup.Properties.Resources.resources
+obj\Debug\RunAtStartup.csproj.GenerateResource.Cache
+obj\Debug\RunAtStartup.exe
+obj\Debug\RunAtStartup.pdb
